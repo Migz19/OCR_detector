@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="_16sdp">@dimen/_16ssp</dimen>
+    <dimen name="business_card_padding">@dimen/_16sdp</dimen>
+    <dimen name="business_card_name_text_size">@dimen/_18ssp</dimen>
+    <dimen name="business_card_job_title_text_size">@dimen/_16ssp</dimen>
+    <dimen name="business_card_company_text_size">@dimen/_14ssp</dimen>
+    <dimen name="business_card_contact_info_text_size">@dimen/_14ssp</dimen>
+    <dimen name="business_card_text_padding_bottom">@dimen/_8sdp</dimen>
+    <dimen name="business_card_button_text_size">@dimen/_14ssp</dimen>
+    <dimen name="business_card_button_padding">@dimen/_8sdp</dimen>
+
+    </resources>
